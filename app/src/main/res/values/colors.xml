@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#ff0000</color>
+    <color name="blue">#0033cc</color>
+    <color name="green">#009900</color>
+    <color name="toolbarColor">#666699</color>
+    <color name="purple1">#cc33ff</color>
+    <color name="orange1">#ff9933</color>
+    <color name="yellow">#ffff00</color>
+    <color name="green1">#669900</color>
+    <color name="cyan">#00ffff</color>
+    <color name="purple2">#660066</color>
+    <color name="orange2">#ff6600</color>
+    <color name="green2">#00cc66</color>
+    <color name="maroon">#800000</color>
+    <color name="purple3">#ff99ff</color>
+</resources>
